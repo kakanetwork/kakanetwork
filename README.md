@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/kakanetwork">
-  <img width="400px" height="180x" src="https://github-readme-stats.vercel.app/api?username=kakanetwork&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="473px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakanetwork&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180x" src="https://github-readme-stats.vercel.app/api?username=kakanetwork&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakanetwork&layout=compact&langs_count=7&theme=dracula"/>
     
 </div>
  <br>
