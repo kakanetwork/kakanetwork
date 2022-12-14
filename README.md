@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/kakanetwork">
   <img height="180x" src="https://github-readme-stats.vercel.app/api?username=kakanetwork&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakanetwork&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakanetwork&layout=compact&langs_count=7&theme=dracula"/>
     
 </div>
  <br>
