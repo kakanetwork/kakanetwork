@@ -2,12 +2,9 @@
 
 <div align="center">
   <a href="https://github.com/kakanetwork">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kakanetwork&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakanetwork&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kakanetwork&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakanetwork&layout=compact&langs_count=7&theme=dracula"/>
 
-</div>
-  <img align="center" width="1080" height="600" src="https://media.tenor.com/rN8ap_xamKEAAAAd/darth-vader-star-wars.gif">
-</div>
  <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -22,3 +19,7 @@
 
 
 ![snake gif](https://github.com/kakanetwork/kakanetwork/blob/output/github-contribution-grid-snake.svg)
+    
+</div>
+  <img align="center" width="1080" height="600" src="https://media.tenor.com/rN8ap_xamKEAAAAd/darth-vader-star-wars.gif">
+</div>
