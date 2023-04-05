@@ -21,5 +21,3 @@
 ![snake gif](https://github.com/kakanetwork/kakanetwork/blob/output/github-contribution-grid-snake.svg)
     
 </div>
-  <img align="center" width="1000" height="300" src="https://media.tenor.com/rN8ap_xamKEAAAAd/darth-vader-star-wars.gif">
-</div>
