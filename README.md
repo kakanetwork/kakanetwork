@@ -1,4 +1,4 @@
-<h1>Você pode criar qualquer coisa: basta usar a lógica, e um pouco de list.</h1>
+<h1>Você pode criar qualquer coisa: basta usar a lógica, e um pouco de Python.</h1>
 
 <div align="center">
   <a href="https://github.com/kakanetwork">
