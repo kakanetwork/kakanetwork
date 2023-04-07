@@ -27,6 +27,6 @@ Faço tecnólogo em Redes de Computadores no IFRN<br>Sou atualmente Designer Gr�
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://raw.githubusercontent.com/kakanetwork/kakanetwork/blob/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/kakanetwork/kakanetwork/blob/output/github-contribution-grid-snake.svg)
     
 </div>
