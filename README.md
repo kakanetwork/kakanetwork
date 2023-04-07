@@ -27,6 +27,6 @@ Faço tecnólogo em Redes de Computadores no IFRN<br>Sou atualmente Designer Gr�
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kakanetwork/kakanetwork/blob/output/snake.svg" alt="Snake animation" />
     
 </div>
