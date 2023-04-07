@@ -18,13 +18,17 @@ Faço tecnólogo em Redes de Computadores no IFRN<br>Sou atualmente Designer Gr�
 ### ✍️ Frase do dia
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Repositorios Contribuidos 
-![](https://github-contributor-stats.vercel.app/api?username=kakanetwork&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###    Jogos P/ Descontrair
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kakanetwork/kakanetwork/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kakanetwork/kakanetwork/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/kakanetwork/kakanetwork/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+_generated with [kakanetwork](https://github.com/kakanetwork)_
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kakanetwork&icon=0&color=1)](https://visitcount.itsvg.in)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-###    Jogos P/ Descontrair
-![snake gif](https://github.com/kakanetwork/kakanetwork/blob/output/github-contribution-grid-snake.svg)
