@@ -21,7 +21,10 @@ Faço tecnólogo em Redes de Computadores no IFRN<br>Sou atualmente Designer Gr�
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###    Jogos P/ Descontrair
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake-dark.svg" />
+</picture>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kakanetwork&icon=0&color=1)](https://visitcount.itsvg.in)
