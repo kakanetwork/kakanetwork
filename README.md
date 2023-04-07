@@ -21,13 +21,6 @@ Faço tecnólogo em Redes de Computadores no IFRN<br>Sou atualmente Designer Gr�
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###    Jogos P/ Descontrair
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kakanetwork/kakanetwork/blob/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kakanetwork/kakanetwork/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/kakanetwork/kakanetwork/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
-_generated with [kakanetwork](https://github.com/kakanetwork)_
 
 
 ---
