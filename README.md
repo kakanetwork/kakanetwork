@@ -16,16 +16,21 @@ Faço tecnólogo em Redes de Computadores no IFRN<br>Sou atualmente Designer Gr�
 ![](https://github-profile-trophy.vercel.app/?username=kakanetwork&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Frase do dia
-![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&lang=pt-br&theme=radical)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-###  Jogos P/ Descontrair
+### 🐍 Snake
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kakanetwork/kakanetwork/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/kakanetwork/kakanetwork/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+_generated with [kakanetwork](https://github.com/kakanetwork)_
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kakanetwork&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
