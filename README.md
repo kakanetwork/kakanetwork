@@ -31,6 +31,6 @@ Faço tecnólogo em Redes de Computadores no IFRN<br>Sou atualmente Designer Gr�
 _generated with [kakanetwork](https://github.com/kakanetwork)_
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kakanetwork&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kakanetwork&label=Github%20Visualiza%C3%A7%C3%B5es&color=5&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 
