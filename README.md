@@ -1,6 +1,7 @@
 # 💫 Sobre:
 Faço tecnólogo em Redes de Computadores no IFRN<br>Sou atualmente Designer Gráfico.
 <br>"Você pode criar qualquer coisa: basta usar a lógica, e um pouco de Python." - ?
+<br><br>[![](https://visitcount.itsvg.in/api?id=kakanetwork&label=Github%20Visualiza%C3%A7%C3%B5es&color=5&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 # 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaka_0206) 
@@ -15,11 +16,11 @@ Faço tecnólogo em Redes de Computadores no IFRN<br>Sou atualmente Designer Gr�
 ## 🏆 Troféus Github
 ![](https://github-profile-trophy.vercel.app/?username=kakanetwork&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Frase do dia
+## ✍️ Frase do dia
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### 🐍 Snake
+## 🐍 Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -31,6 +32,5 @@ Faço tecnólogo em Redes de Computadores no IFRN<br>Sou atualmente Designer Gr�
 _generated with [kakanetwork](https://github.com/kakanetwork)_
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kakanetwork&label=Github%20Visualiza%C3%A7%C3%B5es&color=5&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 
