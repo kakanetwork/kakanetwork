@@ -22,8 +22,14 @@ Faço tecnólogo em Redes de Computadores no IFRN<br>Sou atualmente Designer Gr�
 ###    Jogos P/ Descontrair
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kakanetwork/kakanetwork/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/kakanetwork/kakanetwork/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kakanetwork/kakanetwork/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/kakanetwork/kakanetwork/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
