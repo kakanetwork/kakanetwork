@@ -16,7 +16,7 @@ Faço tecnólogo em Redes de Computadores no IFRN<br>Sou atualmente Designer Gr�
 ![](https://github-profile-trophy.vercel.app/?username=kakanetwork&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Frase do dia
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&lang=pt)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ###  Jogos P/ Descontrair
