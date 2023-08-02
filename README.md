@@ -9,17 +9,17 @@ Faço tecnólogo em Redes de Computadores no IFRN<br>Sou atualmente Designer Gr�
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13)
 # 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=kakanetwork&theme=radical&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakanetwork&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=prs)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kakanetwork&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kakanetwork&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakanetwork&layout=compact&theme=radical&hide_border=true)](https://github.com/kakanetwork/github-readme-stats)<br/>
+
 
 ## 🏆 Troféus Github
 ![](https://github-profile-trophy.vercel.app/?username=kakanetwork&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## ✍️ Frase do dia
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🐍 Snake
 
 <picture>
