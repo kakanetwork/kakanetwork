@@ -1,19 +1,103 @@
 # 💫 Sobre:
-Faço tecnólogo em Redes de Computadores no IFRN<br>Sou atualmente Designer Gráfico.
-<br>"Você pode criar qualquer coisa: basta usar a lógica, e um pouco de Python." - ?
-<br><br>[![](https://visitcount.itsvg.in/api?id=kakanetwork&label=Github%20Visualiza%C3%A7%C3%B5es&color=5&icon=1&pretty=true)](https://visitcount.itsvg.in)
+🎓 Estudante de Redes de Computadores<br>
+
+👨‍💻 Desenvolvedor backend em Python com enfâse em programação para redes.<br>
+
+🔐 Interesse e Entusiasta em segurança da informação, sempre buscando aprimorar minhas habilidades.<br>
+
+🌐 Explorando novas tecnologias e compartilhando conhecimento com a comunidade de desenvolvimento.<br>
+
+📫 Vamos nos conectar? 
 
 # 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kalvinklein) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaka_0206) 
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) 
- ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13)
-# 📊 GitHub Status:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakanetwork&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=prs)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kakanetwork&theme=radical&hide_border=true)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakanetwork&layout=compact&theme=radical&hide_border=true)](https://github.com/kakanetwork/github-readme-stats)<br/>
+
+<details> 
+  <summary><h2>💻 Minhas Stack's </h2></summary>
+  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
+  <h3>👨‍💻 Linguagens de Programação/Marcação</h3>
+
+  <p>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+						<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/shell_script-%23121011.svg?logo=database&logoColor=white"></a>
+		
+  </p>
+
+  <h3>🧰 Frameworks e Bibliotecas </h3>
+
+  <p>
+						<a href="#"><img alt="Django" src="https://img.shields.io/badge/django-008000?style=flat&logo=django&logoColor=080A13"></a>
+      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
+	
+  </p>
+
+  <h3>🗄️ Banco de Dados e Servidores Web </h3>
+
+  <p>
+						<a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+  </p>
+
+  <h3>💻 Programas e Ferramentas </h3>
+
+  <p>
+      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+      <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+      <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+      <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
+      <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
+      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  </p>
+</details>
+
+<details open> 
+  <summary><h2>📘 Meus Projetos</h2></summary>
+  <p align="left">
+   <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
+   <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
+   <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
+   <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
+   <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
+   <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
+  </p>
+  <a href="https://github.com/kakanetwork?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&layout=compact&theme=radical&hide_border=true"/></a>
+</details>
+
+<details> 
+  <summary><h2>📊 Status e Atividade do Github</h2></summary>
+
+  <h3>🔥 Contribuições e Streak's </h3>
+  <p>
+    <a href="https://github.com/kakanetwork/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kakanetwork's streak" src="https://streak-stats.demolab.com/?user=kakanetwork&layout=compact&theme=radical&hide_border=true"/>
+    </a>
+  </p>
+
+  <h3>💻 Status do Github</h3>
+  <a href="https://github.com/kakanetwork/github-readme-stats"><img alt="kakanetwork's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kakanetwork&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=prs" height="192px"/></a>
+  <a href="https://github.com/kakanetwork/github-readme-stats"><img alt="kakanetwork's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakanetwork&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
+  <br/>
+		
+  <h3>📊 Gráfico de Contribuição</h3>
+  <a href="https://github.com/kakanetwork/github-readme-activity-graph"><img alt="kakanetwork's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kakanetwork&layout=compact&theme=radical&hide_border=true&bg_color=141321"  width="100%"/></a>
+</details>
 
 
 ## 🏆 Troféus Github
@@ -22,7 +106,9 @@ Faço tecnólogo em Redes de Computadores no IFRN<br>Sou atualmente Designer Gr�
 ## ✍️ Frase do dia
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
-## 🐍 Snake
+[![](https://visitcount.itsvg.in/api?id=kakanetwork&label=Visualiza%C3%A7%C3%B5es&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
+
+## 🐍 Snake Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
