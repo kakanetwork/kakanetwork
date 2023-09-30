@@ -32,28 +32,22 @@
 						<a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/shell_script-%23121011.svg?logo=database&logoColor=white"></a>
 		
   </p>
-
   <h3>🧰 Frameworks e Bibliotecas </h3>
-
   <p>
-						<a href="#"><img alt="Django" src="https://img.shields.io/badge/django-008000?style=flat&logo=django&logoColor=080A13"></a>
+      <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-008000?style=flat&logo=django&logoColor=080A13"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 	
   </p>
-
   <h3>🗄️ Banco de Dados e Servidores Web </h3>
-
   <p>
-						<a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=github&logoColor=white"></a>
+	<a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
-
   <h3>💻 Programas e Ferramentas </h3>
-
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
