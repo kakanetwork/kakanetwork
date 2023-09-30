@@ -70,8 +70,8 @@
 <details open> 
   <summary><h2>📘 Meus Projetos</h2></summary>
   <p align="left">
-   <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
-   <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
+   <a href="https://github.com/kakanetwork/ServidorIntegrado"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=ServidorIntegrado&layout=compact&theme=radical&hide_border=true"></a>
+   <a href="https://github.com/kakanetwork/AutenticadorWeb"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=AutenticadorWeb&layout=compact&theme=radical&hide_border=true"></a>
    <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
    <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
    <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
