@@ -77,7 +77,7 @@
    <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
    <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
   </p>
-  <a href="https://github.com/kakanetwork?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&layout=compact&theme=radical&hide_border=true"/></a>
+  <a href="https://github.com/kakanetwork?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique%20Aqui%20Para%20Ver%20Meus%20Repositórios-1F222E?style=for-the-badge&layout=compact&theme=radical&hide_border=true"/></a>
 </details>
 
 <details> 
