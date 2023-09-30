@@ -1,12 +1,12 @@
 #
 <br><br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0692FC&width=435&lines=Hello+World!++)](https://git.io/typing-svg)
-#
+# 
 # 💫 Sobre:
-🎓 Estudante de Redes de Computadores<br>
+🎓 Graduando em Redes de Computadores<br>
 
 👨‍💻 Desenvolvedor backend em Python com enfâse em programação para redes.<br>
 
-🔐 Interesse e Entusiasta em segurança da informação, sempre buscando aprimorar minhas habilidades.<br>
+🔐 Entusiasta em segurança da informação, sempre buscando aprimorar minhas habilidades.<br>
 
 🌐 Explorando novas tecnologias e compartilhando conhecimento com a comunidade de desenvolvimento.<br>
 
