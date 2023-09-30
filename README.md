@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kalvinklein) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaka_0206) 
 
+[![](https://visitcount.itsvg.in/api?id=kakanetwork&label=Visualiza%C3%A7%C3%B5es&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 <details> 
   <summary><h2>💻 Minhas Stack's </h2></summary>
@@ -70,12 +71,8 @@
 <details open> 
   <summary><h2>📘 Meus Projetos</h2></summary>
   <p align="left">
-   <a href="https://github.com/kakanetwork/ServidorIntegrado"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=ServidorIntegrado&theme=radical&hide_border=true"></a>
-   <a href="https://github.com/kakanetwork/AutenticadorWeb"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=AutenticadorWeb&theme=radical&hide_border=true"></a>
-   <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
-   <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
-   <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
-   <a href="https://github.com/kakanetwork/Projetos-Pessoais"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Projetos-Pessoais&layout=compact&theme=radical&hide_border=true"></a>
+   <a href="https://github.com/kakanetwork/ServidorIntegrado"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=ServidorIntegrado&layout=compact&theme=radical&hide_border=true"></a>
+   <a href="https://github.com/kakanetwork/AutenticadorWeb"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=AutenticadorWeb&layout=compact&theme=radical&hide_border=true"></a>
   </p>
   <a href="https://github.com/kakanetwork?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique%20Aqui%20Para%20Ver%20Meus%20Repositórios-1F222E?style=for-the-badge&layout=compact&theme=radical&hide_border=true"/></a>
 </details>
@@ -99,14 +96,10 @@
   <a href="https://github.com/kakanetwork/github-readme-activity-graph"><img alt="kakanetwork's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kakanetwork&layout=compact&theme=radical&hide_border=true&bg_color=141321"  width="100%"/></a>
 </details>
 
-
-## 🏆 Troféus Github
-![](https://github-profile-trophy.vercel.app/?username=kakanetwork&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-## ✍️ Frase do dia
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
-
-[![](https://visitcount.itsvg.in/api?id=kakanetwork&label=Visualiza%C3%A7%C3%B5es&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
+<details>
+<summary><h2>🏆 Troféus Github</h2></summary>
+	<a href="https://github.com/kakanetwork/github-profile-trophy"><img alt="kakanetwork's profile trophy" src="https://github-profile-trophy.vercel.app/?username=kakanetwork&theme=radical&no-frame=true&no-bg=false&margin-w=4">
+</details>
 
 ## 🐍 Snake Game
 
