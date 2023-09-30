@@ -1,3 +1,6 @@
+#
+<br><br>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0692FC&width=435&lines=Hello+World!++)](https://git.io/typing-svg)
+#
 # 💫 Sobre:
 🎓 Estudante de Redes de Computadores<br>
 
@@ -65,8 +68,8 @@
 <details open> 
   <summary><h2>📘 Meus Projetos</h2></summary>
   <p align="left">
-   <a href="https://github.com/kakanetwork/ServidorIntegrado"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=ServidorIntegrado&theme=radical&hide_border=true"></a>
-   <a href="https://github.com/kakanetwork/AutenticadorWeb"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=AutenticadorWeb&theme=radical&hide_border=true"></a>	  
+	<a href="https://github.com/kakanetwork/AutenticadorWeb"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=AutenticadorWeb&theme=radical&hide_border=true"></a>	
+  	<a href="https://github.com/kakanetwork/ServidorIntegrado"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=ServidorIntegrado&theme=radical&hide_border=true"></a>	  
   </p>
   <a href="https://github.com/kakanetwork?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique%20Aqui%20Para%20Ver%20Meus%20Repositórios-1F222E?style=for-the-badge&layout=compact&theme=radical&hide_border=true"/></a>
 </details>
