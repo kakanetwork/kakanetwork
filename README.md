@@ -86,7 +86,7 @@
 
   <h3>💻 Status do Github</h3>
   <a href="https://github.com/kakanetwork/github-readme-stats"><img alt="kakanetwork's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kakanetwork&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=prs" height="192px"/></a>
-  <a href="https://github.com/kakanetwork/github-readme-stats"><img alt="kakanetwork's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakanetwork&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/kakanetwork/github-readme-stats"><img alt="kakanetwork's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakanetwork&layout=compact&theme=radical&hide_border=true&exclude_repo=CSS" height="192px"/></a>
   <br/>
 		
   <h3>📊 Gráfico de Contribuição</h3>
