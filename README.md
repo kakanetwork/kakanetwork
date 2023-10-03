@@ -79,7 +79,6 @@
 
   <h3>🔥 Contribuições e Streak's </h3>
   <p>
-    <a href="https://github.com/kakanetwork/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kakanetwork's streak" src="https://streak-stats.demolab.com/?user=kakanetwork&layout=compact&theme=radical&hide_border=true"/>
     </a>
   </p>
