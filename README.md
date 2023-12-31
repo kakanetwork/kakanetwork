@@ -13,8 +13,8 @@
 📫 Vamos nos conectar? 
 
 # 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kalvinklein) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaka_0206) 
+<a href="https://www.instagram.com/kaka_0206/"><img src="https://img.shields.io/badge/-Instagram-4d080e?style=for-the-badge&logo=instagram&color=141321&logoColor=fe428e" alt="Instagram"></a>
+<a href="https://https://www.linkedin.com/in/kalvinklein"><img src="https://img.shields.io/badge/-linkedin-4d080e?style=for-the-badge&logo=linkedin&color=141321&logoColor=fe428e" alt="Instagram"></a>
 
 [![](https://visitcount.itsvg.in/api?id=kakanetwork&label=Visualiza%C3%A7%C3%B5es&color=12&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
