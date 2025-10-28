@@ -68,7 +68,9 @@
 	<a href="https://github.com/kakanetwork/RentCarManager"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=RentCarManager&theme=radical&hide_border=true"></a>
 	<a href="https://github.com/kakanetwork/VoIPY"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=VoIPY&theme=radical&hide_border=true"></a>	
 	<a href="https://github.com/kakanetwork/AutenticadorWeb"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=AutenticadorWeb&theme=radical&hide_border=true"></a>	
-  	<a href="https://github.com/kakanetwork/ServidorIntegrado"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=ServidorIntegrado&theme=radical&hide_border=true"></a>	  
+  	<a href="https://github.com/kakanetwork/ServidorIntegrado"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=ServidorIntegrado&theme=radical&hide_border=true"></a>	
+	<a href="https://github.com/kakanetwork/Desafio-Backend-Hubbi"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=kakanetwork&repo=Desafio-Backend-Hubbi&theme=radical&hide_border=true"></a>	
+
   </p>
   <a href="https://github.com/kakanetwork?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique%20Aqui%20Para%20Ver%20Meus%20Repositórios-1F222E?style=for-the-badge&layout=compact&theme=radical&hide_border=true"/></a>
 </details>
